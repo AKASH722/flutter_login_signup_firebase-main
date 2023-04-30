@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "898112614685",
+    "project_id": "hazel-strand-283910",
+    "storage_bucket": "hazel-strand-283910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898112614685:android:41e9085be8bcc7ca4cb1f4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_login_signup_firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898112614685-clioa1q0su3sg0lllh84nce9rmegrbv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdCkwOrNic2BYWowQst1tBPncmin2RJXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898112614685-clioa1q0su3sg0lllh84nce9rmegrbv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
